@@ -1,0 +1,2 @@
+# sqlite3C
+sqlite3C仅仅是wxSqlite3加密版本的可调试版本
