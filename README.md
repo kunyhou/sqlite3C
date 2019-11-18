@@ -4,7 +4,7 @@
 
 sqlite3源文件在编译时
 
-剔除rijndael.c、codec.c、codecext.c、extensionfunctions.c
+剔除rijndael.c、codec.c、codecext.c、extensionfunctions.c、fts5parse.c
 
 以上文件在个别头文件中已包含。
 
